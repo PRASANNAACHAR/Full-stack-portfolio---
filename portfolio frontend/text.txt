@@ -1,0 +1,52 @@
+video ended CodeWithZeeshu : 15:39:05 
+
+curend video ended: 
+
+
+6:33:44 dout for forgot password agtha ela
+
+9:56:17 dout for timeine empty edru adda aguute 
+
+10:56:56 dout yenu ela but adru erli antha.
+
+
+1:48:04 user register 
+
+dout for profile jsx for instagram url smallcase hakidna ela biglettter al hakdna annode dout. 
+
+8:23:27 dout ede input fileds backend enda instagram url adn facebokk twitter adle kotru bartha ela 
+
+backend:
+npm init
+npm install express-fileupload bcrypt cookie-parser nodemailer cors dotenv cloudinary jsonwebtoken mongoose
+npm install express
+
+npm run dev
+
+dashboard:
+npm create vite@latest
+
+npm install -D tailwindcss postcss autoprefixer
+ 
+npx tailwindcss init -p
+
+npx shadcn@latest init
+
+npm install react-redux @reduxjs/toolkit axios react-router-dom react-toastify
+
+npx shadcn-ui@latest add dropdown-menu label progress select separator slider slot tabs tooltip
+
+
+
+portfolio design :
+npm create vite@latest
+
+npm install -D tailwindcss postcss autoprefixer
+
+npx tailwindcss init -p
+
+# (so you can import "path" without error)
+npm i -D @types/node
+
+npm i react-simple-typewriter axios react-router-dom react-toastify
+npx shadcn@latest add label dropdown-menu
