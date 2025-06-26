@@ -8,3 +8,9 @@ npm install express
 
 
 npm run dev
+npm run start backend
+
+
+dashboard
+prasannaacharr@gmail.com
+123456789
